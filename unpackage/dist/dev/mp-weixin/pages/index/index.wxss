@@ -1,0 +1,12 @@
+
+.cell-pd {
+	padding: 22rpx 30rpx;
+}
+.list-pd {
+	margin-top: 30rpx;
+}
+.button{
+	width: 80%; border-radius: 60rpx; background-color: #C8C7CC; color: #ffffff; border-color: #007AFF;
+	margin-top: 60rpx;
+}
+
